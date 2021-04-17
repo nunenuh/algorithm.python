@@ -1,2 +1,2 @@
 # algorithm.python
-# repository for learning python algorithm. 
+# learning python algorithm for begginer.
